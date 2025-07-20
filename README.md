@@ -1,8 +1,13 @@
-<h1 align="center">👋 Hi, I'm Shishir Khatiwada</h1>
+<h1 align="center">✨ Shishir Khatiwada ✨</h1>
+
 <p align="center">
-  <b>Full Stack Developer • Cybersecurity Enthusiast</b><br/>
+  <b>Full Stack Developer ⚡ Cybersecurity Enthusiast 🔐</b><br/>
   <a href="https://instagram.com/shishirkhatiwadss" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-shishirkhatiwadss-blueviolet?style=flat&logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%40shishirkhatiwadss-blueviolet?style=for-the-badge&logo=instagram" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/shishir-khatiwada-58a866279/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-shishir--khatiwada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -10,41 +15,62 @@
 
 ## 🚀 Tech Stack
 
-### 🖥️ Frontend
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,radix,framer,axios" />
+
 - React.js, Next.js (App Router, Server Actions)
 - TypeScript, Tailwind CSS, Shadcn/UI, Radix UI
 - Zustand, Framer Motion, Axios
 
-### 🛠️ Backend
+### 🛠 Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
 - Node.js (Express.js)
 - REST API, Authentication (JWT, OAuth, NextAuth)
 - Prisma ORM, Zod, WebSockets
 
-### 🗄️ Databases
+### 🗄 Databases
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+
 - PostgreSQL, MongoDB
 
-### ⚙️ DevOps / Tools
+### ⚙ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman" />
+
 - Docker, Git & GitHub, Vercel / Netlify, Postman, Railway
 - Redis, Kafka (Basics)
 
-### 🛡️ Cybersecurity
-- Nmap, Burp Suite
+### 🛡 Cybersecurity
+- Nmap, Burp Suite  
 
-### 🤖 AI / ML
+### 🤖 AI & ML
 - OpenAI APIs, LangChain
 
 ---
 
-## 🌟 Favorite Projects
+## 🌟 Featured Projects
 
-- [musikified](https://github.com/shishirkhatiwada/musikified)  
-  <sub>Music streaming & discovery platform</sub>
-- [sparkx](https://github.com/shishirkhatiwada/sparkx)  
-  <sub>Innovative social collaboration app</sub>
+### 🎧 [musikified](https://github.com/shishirkhatiwada/musikified)
+> *Music streaming & discovery platform.*
+
+### 🚀 [sparkx](https://github.com/shishirkhatiwada/sparkx)
+> *Innovative social collaboration app.*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shishirkhatiwada&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" alt="Shishir's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishirkhatiwada&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Shishir's Top Languages" />
+</p>
 
 ---
 
 <p align="center">
-  <i>Building robust apps, exploring cybersecurity, and experimenting with AI/ML.<br>
-  Open to collaboration and new opportunities!</i>
+  🚀 <b>Passionate about building, securing, and scaling impactful applications.</b> <br>
+  🤝 Open for collaborations, opportunities, and meaningful conversations.
 </p>
