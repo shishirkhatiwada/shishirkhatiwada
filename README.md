@@ -1,8 +1,9 @@
-<h1 align="center">👋 Hi, I'm Shishir Khatiwada</h1>
+<h1 align="center">✨ Shishir Khatiwada ✨</h1>
+
 <p align="center">
-  <b>Full Stack Developer • Cybersecurity Enthusiast</b><br/>
-  <a href="https://instagram.com/shishirkhatiwadss" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40shishirkhatiwadss-blueviolet?style=for-the-badge&logo=instagram" />
+  <b>Full Stack Developer ⚡ Cybersecurity Enthusiast 🔐</b><br/>
+  <a href="https://www.instagram.com/shishirkhatiwadaa/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40shishirkhatiwadaa-blueviolet?style=for-the-badge&logo=instagram" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/shishir-khatiwada-58a866279/" target="_blank">
@@ -10,67 +11,94 @@
   </a>
 </p>
 
-
 ---
 
 ## 🚀 Tech Stack
 
-### 🖥️ Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,radix,framer" />
+### 🎨 Frontend  
+<p>
+  <img alt="React" src="https://skillicons.dev/icons?i=react" height="30" />
+  <img alt="Next.js" src="https://skillicons.dev/icons?i=nextjs" height="30" />
+  <img alt="TypeScript" src="https://skillicons.dev/icons?i=typescript" height="30" />
+  <img alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" height="30" />
+  <img alt="Shadcn/UI" src="https://raw.githubusercontent.com/shadcn-ui/branding/main/shadcn-icon.svg" height="30" />
+  <img alt="Radix UI" src="https://skillicons.dev/icons?i=radix" height="30" />
+  <img alt="Framer Motion" src="https://skillicons.dev/icons?i=framer" height="30" />
+  <img alt="Axios" src="https://skillicons.dev/icons?i=axios" height="30" />
+  <img alt="Zustand" src="https://skillicons.dev/icons?i=zustand" height="30" />
+</p>
 
 - React.js, Next.js (App Router, Server Actions)  
 - TypeScript, Tailwind CSS, Zustand  
 - Shadcn/UI, Radix UI, Framer Motion, Axios  
 
-### 🛠 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+### 🛠 Backend  
+<p>
+  <img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="30" />
+  <img alt="Express" src="https://skillicons.dev/icons?i=express" height="30" />
+  <img alt="Prisma" src="https://raw.githubusercontent.com/prisma/artwork/main/prisma-icon.svg" height="30" />
+  <img alt="Zod" src="https://raw.githubusercontent.com/colinhacks/zod/main/logo/logo.svg" height="30" />
+</p>
 
 - Node.js (Express.js)  
-- REST APIs, JWT, OAuth, NextAuth  
+- REST APIs, Authentication (JWT, OAuth, NextAuth)  
 - Prisma ORM, Zod, WebSockets  
 
-### 🗄 Databases
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+### 🗄 Databases  
+<p>
+  <img alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" height="30" />
+  <img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="30" />
+</p>
 
 - PostgreSQL, MongoDB  
 
-### ⚙ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman,redis,kafka" />
+### ⚙ DevOps & Tools  
+<p>
+  <img alt="Docker" src="https://skillicons.dev/icons?i=docker" height="30" />
+  <img alt="Git" src="https://skillicons.dev/icons?i=git" height="30" />
+  <img alt="GitHub" src="https://skillicons.dev/icons?i=github" height="30" />
+  <img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" height="30" />
+  <img alt="Netlify" src="https://skillicons.dev/icons?i=netlify" height="30" />
+  <img alt="Postman" src="https://skillicons.dev/icons?i=postman" height="30" />
+  <img alt="Railway" src="https://railway.app/favicon.ico" height="30" />
+  <img alt="Redis" src="https://skillicons.dev/icons?i=redis" height="30" />
+  <img alt="Kafka" src="https://skillicons.dev/icons?i=kafka" height="30" />
+</p>
 
 - Docker, Git & GitHub, Vercel / Netlify  
-- Postman, Railway, Redis, Kafka (basics)
+- Postman, Railway, Redis, Kafka (basics)  
 
-### 🛡 Cybersecurity
-- Nmap, Burp Suite
+### 🛡 Cybersecurity  
+- Nmap, Burp Suite  
 
-### 🤖 AI & ML
-- OpenAI APIs, LangChain
+### 🤖 AI & ML  
+- OpenAI APIs, LangChain  
+
+---
+
+## 🌟 Featured Projects
+
+### 🎧 [musikified](https://github.com/shishirkhatiwada/musikified)  
+*Music streaming & discovery platform.*
+
+### 🚀 [sparkx](https://github.com/shishirkhatiwada/sparkx)  
+*Innovative social collaboration app.*
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shishirkhatiwada&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shishirkhatiwada&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" alt="Shishir's GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shishirkhatiwada&theme=dracula" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shishirkhatiwada&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishirkhatiwada&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Shishir's Top Languages" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
-
-### 🎧 [musikified](https://github.com/shishirkhatiwada/musikified)
-> *Music streaming & discovery platform.*
-
-### 🚀 [sparkx](https://github.com/shishirkhatiwada/sparkx)
-> *Innovative social collaboration app.*
-
----
-
 <p align="center">
-  🚀 <b>Passionate about building, securing, and scaling impactful applications.</b><br>
-  🤝 Open to collaboration, freelance opportunities, and meaningful tech conversations.
+  🚀 <b>Passionate about building, securing, and scaling impactful applications.</b><br/>
+  🤝 Open to collaboration, freelance gigs, and meaningful tech conversations.
 </p>
