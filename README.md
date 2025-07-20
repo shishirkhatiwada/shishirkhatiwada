@@ -16,35 +16,50 @@
 ## 🚀 Tech Stack
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,radix,framer,axios" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" />
+  <img src="https://skillicons.dev/icons?i=radix" />
+  <img src="https://skillicons.dev/icons?i=framer" />
+</p>
 
-- React.js, Next.js (App Router, Server Actions)
-- TypeScript, Tailwind CSS, Shadcn/UI, Radix UI
-- Zustand, Framer Motion, Axios
+- **React.js**, **Next.js** (App Router, Server Actions)
+- **TypeScript**, **Tailwind CSS**
+- **Shadcn/UI**, **Radix UI**, **Framer Motion**
+- **Zustand**, **Axios**
 
 ### 🛠 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-- Node.js (Express.js)
-- REST API, Authentication (JWT, OAuth, NextAuth)
-- Prisma ORM, Zod, WebSockets
+- **Node.js (Express.js)**
+- **REST APIs**, **Authentication** (JWT, OAuth, NextAuth)
+- **Prisma ORM**, **Zod**, **WebSockets**
 
 ### 🗄 Databases
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
 
-- PostgreSQL, MongoDB
+- **PostgreSQL**, **MongoDB**
 
 ### ⚙ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman" />
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=redis" />
+  <img src="https://skillicons.dev/icons?i=kafka" />
+</p>
 
-- Docker, Git & GitHub, Vercel / Netlify, Postman, Railway
-- Redis, Kafka (Basics)
+- **Docker**, **Git & GitHub**
+- **Vercel / Netlify (Deployment)**
+- **Postman**, **Railway**
+- **Redis (Basics)**, **Kafka (Basics)**
 
 ### 🛡 Cybersecurity
-- Nmap, Burp Suite  
+- **Nmap**, **Burp Suite**
 
 ### 🤖 AI & ML
-- OpenAI APIs, LangChain
+- **OpenAI APIs**, **LangChain**
 
 ---
 
