@@ -76,6 +76,41 @@
 
 ---
 
+## 💻 Languages and Tools:
+
+<p align="center">
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="TypeScript"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="Next.js"></code>
+  <code><img width="10%" src="https://tailwindcss.com/_next/static/media/social-square.dcb8d45f.png" alt="Tailwind CSS"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/shadcn-ui/branding/main/shadcn-icon.svg" alt="Shadcn UI"></code>
+  <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/framer-motion-1.svg" alt="Framer Motion"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node.js"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express.js"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/prisma/artwork/main/prisma-icon.svg" alt="Prisma" style="padding: 10px;"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/colinhacks/zod/main/logo/logo.svg" alt="Zod"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="Redis"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="Kafka"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker"></code>
+  <code><img width="10%" src="https://skillicons.dev/icons?i=git" alt="Git"></code>
+  <code><img width="10%" src="https://skillicons.dev/icons?i=github" alt="GitHub"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" alt="Vercel"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="Postman"></code>
+  <code><img width="10%" src="https://railway.app/favicon.ico" alt="Railway"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nmap/nmap-ar21.svg" alt="Nmap"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/burp_suite/burp_suite-ar21.svg" alt="Burp Suite"></code>
+</p>
+
+
 ## 🌟 Featured Projects
 
 ### 🎧 [musikified](https://github.com/shishirkhatiwada/musikified)  
@@ -85,6 +120,7 @@
 *Innovative social collaboration app.*
 
 ---
+
 
 ## 📊 GitHub Stats
 
