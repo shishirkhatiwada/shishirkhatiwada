@@ -34,8 +34,7 @@
 <p>
   <img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="30" />
   <img alt="Express" src="https://skillicons.dev/icons?i=express" height="30" />
-  <img alt="Prisma" src="https://raw.githubusercontent.com/prisma/artwork/main/prisma-icon.svg" height="30" />
-  <img alt="Zod" src="https://raw.githubusercontent.com/colinhacks/zod/main/logo/logo.svg" height="30" />
+
 </p>
 
 - Node.js (Express.js)  
@@ -58,8 +57,6 @@
   <img alt="Git" src="https://skillicons.dev/icons?i=git" height="30" />
   <img alt="GitHub" src="https://skillicons.dev/icons?i=github" height="30" />
   <img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" height="30" />
-  <img alt="Netlify" src="https://skillicons.dev/icons?i=netlify" height="30" />
-  <img alt="Railway" src="https://railway.app/favicon.ico" height="30" />
   <img alt="Postman" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Postman_(software)_logo.svg" height="30" />
 </p>
 
@@ -96,12 +93,7 @@
   <code><img width="10%" src="https://skillicons.dev/icons?i=git" alt="Git"></code>
   <code><img width="10%" src="https://skillicons.dev/icons?i=github" alt="GitHub"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" alt="Vercel"></code>
-  <br />
-  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Postman_(software)_logo.svg" alt="Postman"></code>
-  <code><img width="10%" src="https://railway.app/favicon.ico" alt="Railway"></code>
-  <br />
-  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Nmap_Logo.svg" alt="Nmap"></code>
-  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Burp_Suite_logo.svg" alt="Burp Suite"></code>
+
 </p>
 
 ---
