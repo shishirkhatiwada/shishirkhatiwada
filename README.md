@@ -76,6 +76,7 @@
 
 ---
 
+
 ## 💻 Languages and Tools:
 
 <p align="center">
@@ -87,7 +88,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="Next.js"></code>
   <code><img width="10%" src="https://tailwindcss.com/_next/static/media/social-square.dcb8d45f.png" alt="Tailwind CSS"></code>
   <code><img width="10%" src="https://raw.githubusercontent.com/shadcn-ui/branding/main/shadcn-icon.svg" alt="Shadcn UI"></code>
-  <code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/framer-motion-1.svg" alt="Framer Motion"></code>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/framer/motion@latest/framer-motion.svg" alt="Framer Motion"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node.js"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express.js"></code>
@@ -104,11 +105,12 @@
   <code><img width="10%" src="https://skillicons.dev/icons?i=github" alt="GitHub"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" alt="Vercel"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="Postman"></code>
+  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Postman_(software)_logo.svg" alt="Postman"></code>
   <code><img width="10%" src="https://railway.app/favicon.ico" alt="Railway"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nmap/nmap-ar21.svg" alt="Nmap"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/burp_suite/burp_suite-ar21.svg" alt="Burp Suite"></code>
+  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Nmap_Logo.svg" alt="Nmap"></code>
+  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Burp_Suite_logo.svg" alt="Burp Suite"></code>
 </p>
+
 
 
 ## 🌟 Featured Projects
