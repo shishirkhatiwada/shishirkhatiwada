@@ -1,7 +1,6 @@
-<h1 align="center">✨ Shishir Khatiwada ✨</h1>
-
+<h1 align="center">👋 Hi, I'm Shishir Khatiwada</h1>
 <p align="center">
-  <b>Full Stack Developer ⚡ Cybersecurity Enthusiast 🔐</b><br/>
+  <b>Full Stack Developer • Cybersecurity Enthusiast</b><br/>
   <a href="https://instagram.com/shishirkhatiwadss" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%40shishirkhatiwadss-blueviolet?style=for-the-badge&logo=instagram" />
   </a>
@@ -11,55 +10,53 @@
   </a>
 </p>
 
+
 ---
 
 ## 🚀 Tech Stack
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" />
-  <img src="https://skillicons.dev/icons?i=radix" />
-  <img src="https://skillicons.dev/icons?i=framer" />
-</p>
+### 🖥️ Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,radix,framer" />
 
-- **React.js**, **Next.js** (App Router, Server Actions)
-- **TypeScript**, **Tailwind CSS**
-- **Shadcn/UI**, **Radix UI**, **Framer Motion**
-- **Zustand**, **Axios**
+- React.js, Next.js (App Router, Server Actions)  
+- TypeScript, Tailwind CSS, Zustand  
+- Shadcn/UI, Radix UI, Framer Motion, Axios  
 
 ### 🛠 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-- **Node.js (Express.js)**
-- **REST APIs**, **Authentication** (JWT, OAuth, NextAuth)
-- **Prisma ORM**, **Zod**, **WebSockets**
+- Node.js (Express.js)  
+- REST APIs, JWT, OAuth, NextAuth  
+- Prisma ORM, Zod, WebSockets  
 
 ### 🗄 Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 
-- **PostgreSQL**, **MongoDB**
+- PostgreSQL, MongoDB  
 
 ### ⚙ DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman" />
-  <img src="https://skillicons.dev/icons?i=redis" />
-  <img src="https://skillicons.dev/icons?i=kafka" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman,redis,kafka" />
 
-- **Docker**, **Git & GitHub**
-- **Vercel / Netlify (Deployment)**
-- **Postman**, **Railway**
-- **Redis (Basics)**, **Kafka (Basics)**
+- Docker, Git & GitHub, Vercel / Netlify  
+- Postman, Railway, Redis, Kafka (basics)
 
 ### 🛡 Cybersecurity
-- **Nmap**, **Burp Suite**
+- Nmap, Burp Suite
 
 ### 🤖 AI & ML
-- **OpenAI APIs**, **LangChain**
+- OpenAI APIs, LangChain
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shishirkhatiwada&theme=dracula" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shishirkhatiwada&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shishirkhatiwada&theme=dracula" />
+</p>
 
 ---
 
@@ -73,19 +70,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shishirkhatiwada&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" alt="Shishir's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishirkhatiwada&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Shishir's Top Languages" />
-</p>
-
----
-
-<p align="center">
-  🚀 <b>Passionate about building, securing, and scaling impactful applications.</b> <br>
-  🤝 Open for collaborations, opportunities, and meaningful conversations.
+  🚀 <b>Passionate about building, securing, and scaling impactful applications.</b><br>
+  🤝 Open to collaboration, freelance opportunities, and meaningful tech conversations.
 </p>
