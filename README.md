@@ -21,16 +21,14 @@
   <img alt="Next.js" src="https://skillicons.dev/icons?i=nextjs" height="30" />
   <img alt="TypeScript" src="https://skillicons.dev/icons?i=typescript" height="30" />
   <img alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" height="30" />
-  <img alt="Shadcn/UI" src="https://raw.githubusercontent.com/shadcn-ui/branding/main/shadcn-icon.svg" height="30" />
   <img alt="Radix UI" src="https://skillicons.dev/icons?i=radix" height="30" />
-  <img alt="Framer Motion" src="https://skillicons.dev/icons?i=framer" height="30" />
   <img alt="Axios" src="https://skillicons.dev/icons?i=axios" height="30" />
   <img alt="Zustand" src="https://skillicons.dev/icons?i=zustand" height="30" />
 </p>
 
 - React.js, Next.js (App Router, Server Actions)  
 - TypeScript, Tailwind CSS, Zustand  
-- Shadcn/UI, Radix UI, Framer Motion, Axios  
+- Radix UI, Axios  
 
 ### 🛠 Backend  
 <p>
@@ -48,9 +46,11 @@
 <p>
   <img alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" height="30" />
   <img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="30" />
+  <img alt="Redis" src="https://skillicons.dev/icons?i=redis" height="30" />
+  <img alt="Kafka" src="https://skillicons.dev/icons?i=kafka" height="30" />
 </p>
 
-- PostgreSQL, MongoDB  
+- PostgreSQL, MongoDB, Redis, Kafka (basics)  
 
 ### ⚙ DevOps & Tools  
 <p>
@@ -59,23 +59,18 @@
   <img alt="GitHub" src="https://skillicons.dev/icons?i=github" height="30" />
   <img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" height="30" />
   <img alt="Netlify" src="https://skillicons.dev/icons?i=netlify" height="30" />
-  <img alt="Postman" src="https://skillicons.dev/icons?i=postman" height="30" />
   <img alt="Railway" src="https://railway.app/favicon.ico" height="30" />
-  <img alt="Redis" src="https://skillicons.dev/icons?i=redis" height="30" />
-  <img alt="Kafka" src="https://skillicons.dev/icons?i=kafka" height="30" />
+  <img alt="Postman" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Postman_(software)_logo.svg" height="30" />
 </p>
 
-- Docker, Git & GitHub, Vercel / Netlify  
-- Postman, Railway, Redis, Kafka (basics)  
-
 ### 🛡 Cybersecurity  
-- Nmap, Burp Suite  
+- Nmap  
+- Burp Suite  
 
 ### 🤖 AI & ML  
 - OpenAI APIs, LangChain  
 
 ---
-
 
 ## 💻 Languages and Tools:
 
@@ -87,13 +82,10 @@
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="Next.js"></code>
   <code><img width="10%" src="https://tailwindcss.com/_next/static/media/social-square.dcb8d45f.png" alt="Tailwind CSS"></code>
-  <code><img width="10%" src="https://raw.githubusercontent.com/shadcn-ui/branding/main/shadcn-icon.svg" alt="Shadcn UI"></code>
-  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/framer/motion@latest/framer-motion.svg" alt="Framer Motion"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node.js"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express.js"></code>
   <code><img width="10%" src="https://raw.githubusercontent.com/prisma/artwork/main/prisma-icon.svg" alt="Prisma" style="padding: 10px;"></code>
-  <code><img width="10%" src="https://raw.githubusercontent.com/colinhacks/zod/main/logo/logo.svg" alt="Zod"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB"></code>
@@ -107,11 +99,12 @@
   <br />
   <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Postman_(software)_logo.svg" alt="Postman"></code>
   <code><img width="10%" src="https://railway.app/favicon.ico" alt="Railway"></code>
+  <br />
   <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Nmap_Logo.svg" alt="Nmap"></code>
   <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Burp_Suite_logo.svg" alt="Burp Suite"></code>
 </p>
 
-
+---
 
 ## 🌟 Featured Projects
 
@@ -122,7 +115,6 @@
 *Innovative social collaboration app.*
 
 ---
-
 
 ## 📊 GitHub Stats
 
