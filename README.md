@@ -57,7 +57,7 @@
   <img alt="Git" src="https://skillicons.dev/icons?i=git" height="30" />
   <img alt="GitHub" src="https://skillicons.dev/icons?i=github" height="30" />
   <img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" height="30" />
-  <img alt="Postman" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Postman_(software)_logo.svg" height="30" />
+
 </p>
 
 ### 🛡 Cybersecurity  
