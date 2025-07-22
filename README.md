@@ -11,99 +11,23 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shishirkhatiwada&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🚀 Tech Stack
+...
 
-### 🎨 Frontend  
-<p>
-  <img alt="React" src="https://skillicons.dev/icons?i=react" height="30" />
-  <img alt="Next.js" src="https://skillicons.dev/icons?i=nextjs" height="30" />
-  <img alt="TypeScript" src="https://skillicons.dev/icons?i=typescript" height="30" />
-  <img alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" height="30" />
-  <img alt="Radix UI" src="https://skillicons.dev/icons?i=radix" height="30" />
-  <img alt="Axios" src="https://skillicons.dev/icons?i=axios" height="30" />
-  <img alt="Zustand" src="https://skillicons.dev/icons?i=zustand" height="30" />
-</p>
-
-- React.js, Next.js (App Router, Server Actions)  
-- TypeScript, Tailwind CSS, Zustand  
-- Radix UI, Axios  
-
-### 🛠 Backend  
-<p>
-  <img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="30" />
-  <img alt="Express" src="https://skillicons.dev/icons?i=express" height="30" />
-
-</p>
-
-- Node.js (Express.js)  
-- REST APIs, Authentication (JWT, OAuth, NextAuth)  
-- Prisma ORM, Zod, WebSockets  
-
-### 🗄 Databases  
-<p>
-  <img alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" height="30" />
-  <img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="30" />
-  <img alt="Redis" src="https://skillicons.dev/icons?i=redis" height="30" />
-  <img alt="Kafka" src="https://skillicons.dev/icons?i=kafka" height="30" />
-</p>
-
-- PostgreSQL, MongoDB, Redis, Kafka (basics)  
-
-### ⚙ DevOps & Tools  
-<p>
-  <img alt="Docker" src="https://skillicons.dev/icons?i=docker" height="30" />
-  <img alt="Git" src="https://skillicons.dev/icons?i=git" height="30" />
-  <img alt="GitHub" src="https://skillicons.dev/icons?i=github" height="30" />
-  <img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" height="30" />
-
-</p>
-
-### 🛡 Cybersecurity  
-- Nmap  
-- Burp Suite  
-
-### 🤖 AI & ML  
-- OpenAI APIs, LangChain  
-
----
-
-## 💻 Languages and Tools:
-
-<p align="center">
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="TypeScript"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="Next.js"></code>
-  <code><img width="10%" src="https://tailwindcss.com/_next/static/media/social-square.dcb8d45f.png" alt="Tailwind CSS"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node.js"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express.js"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="Redis"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="Kafka"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker"></code>
-  <code><img width="10%" src="https://skillicons.dev/icons?i=git" alt="Git"></code>
-  <code><img width="10%" src="https://skillicons.dev/icons?i=github" alt="GitHub"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" alt="Vercel"></code>
-
-</p>
+<!-- [Keep your existing Tech Stack section unchanged here] -->
 
 ---
 
 ## 🌟 Featured Projects
+...
 
-### 🎧 [musikified](https://github.com/shishirkhatiwada/musikified)  
-*Music streaming & discovery platform.*
-
-### 🚀 [sparkx](https://github.com/shishirkhatiwada/sparkx)  
-*Innovative social collaboration app.*
+<!-- [Keep your existing Featured Projects unchanged here] -->
 
 ---
 
@@ -115,6 +39,18 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishirkhatiwada&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Shishir's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shishirkhatiwada&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shishirkhatiwada&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shishirkhatiwada&theme=radical&hide_border=true&radius=10" alt="GitHub Contribution Graph" />
 </p>
 
 ---
