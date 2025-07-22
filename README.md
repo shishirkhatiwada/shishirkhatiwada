@@ -27,35 +27,100 @@
 
 ---
 
-## 🚀 Tech Stack
-<!-- your tech stack remains unchanged here, keeping your previous content -->
-[ ... KEEP YOUR TECH STACK CONTENT FROM BEFORE ... ]
+## 🔧 About Me
+- 👨‍💻 Full Stack Developer | Cybersecurity Enthusiast
+- 🚀 Passionate about building secure, scalable, and impactful applications.
+- 💬 Open to collaboration, freelance gigs, and meaningful tech conversations.
 
 ---
 
-## 🌟 Featured Projects
-<!-- your featured projects remain unchanged -->
-[ ... KEEP YOUR FEATURED PROJECTS CONTENT FROM BEFORE ... ]
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+React, Next.js (App Router, Server Actions), TypeScript, Tailwind CSS, Zustand, Radix UI, Axios  
+
+### 🛠 Backend
+Node.js (Express.js), REST APIs, Authentication (JWT, OAuth, NextAuth), Prisma ORM, Zod, WebSockets  
+
+### 🗄 Databases
+PostgreSQL, MongoDB, Redis, Kafka (basics)  
+
+### ⚙ DevOps & Tools
+Docker, Git, GitHub, Vercel  
+
+### 🛡 Cybersecurity
+Nmap, Burp Suite  
+
+### 🤖 AI & ML
+OpenAI APIs, LangChain  
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Languages and Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shishirkhatiwada&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" alt="Shishir's GitHub Stats" />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="TypeScript"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="Next.js"></code>
+  <code><img width="10%" src="https://tailwindcss.com/_next/static/media/social-square.dcb8d45f.png" alt="Tailwind CSS"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node.js"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express.js"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="Redis"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="Kafka"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker"></code>
+  <code><img width="10%" src="https://skillicons.dev/icons?i=git" alt="Git"></code>
+  <code><img width="10%" src="https://skillicons.dev/icons?i=github" alt="GitHub"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" alt="Vercel"></code>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishirkhatiwada&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Shishir's Top Languages" />
-</p>
+---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shishirkhatiwada&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</p>
+## 🚀 Featured Projects
+
+### 🎧 [musikified](https://github.com/shishirkhatiwada/musikified)
+🎵 Music streaming & discovery platform.
+
+### 🚀 [sparkx](https://github.com/shishirkhatiwada/sparkx)
+💬 Innovative social collaboration app.
+
+---
+
+## 🏆 GitHub Awards / Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shishirkhatiwada&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
+
+---
+
+## 📊 GitHub Analytics
+
+### 📈 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shishirkhatiwada&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" />
+</p>
+
+### 💻 Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishirkhatiwada&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" />
+</p>
+
+### 🔥 Streaks
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shishirkhatiwada&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Additional GitHub Metrics
 
 <p align="center">
   <img src="https://github-metrics.vercel.app/api?username=shishirkhatiwada&theme=radical&base=header,activity,community,repositories&config.timezone=Asia%2FKathmandu" />
@@ -63,7 +128,16 @@
 
 ---
 
+## 🔍 Visitors Counter
 <p align="center">
-  🚀 <b>Passionate about building, securing, and scaling impactful applications.</b><br/>
-  🤝 Open to collaboration, freelance gigs, and meaningful tech conversations.
+  <img src="https://komarev.com/ghpvc/?username=shishirkhatiwada&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
+---
+
+## ✨ Closing Note
+
+<p align="center">
+🚀 <b>Passionate about building, securing, and scaling impactful applications.</b><br/>
+🤝 Open to collaboration, freelance gigs, and meaningful tech conversations.
 </p>
