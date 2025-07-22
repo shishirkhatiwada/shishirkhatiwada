@@ -1,4 +1,4 @@
-<h1 align="center">✨ Shishir Khatiwada ✨</h1>
+<h1 align="center">✨ Shishir Khatiwada ✨ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="center">
   <b>Full Stack Developer ⚡ Cybersecurity Enthusiast 🔐</b><br/>
@@ -14,6 +14,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shishirkhatiwada&style=flat-square&color=blue" alt="Profile Views" />
 </p>
+
+---
+
+<p align="center"><i>💡 "Build fast. Learn faster. Break limits." 💡</i></p>
 
 ---
 
@@ -127,7 +131,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shishirkhatiwada&theme=radical&hide_border=true&radius=10" alt="GitHub Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shishirkhatiwada&theme=radical" />
 </p>
 
 ---
