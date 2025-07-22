@@ -120,14 +120,6 @@ OpenAI APIs, LangChain
 
 ---
 
-## 📈 Additional GitHub Metrics
-
-<p align="center">
-  <img src="https://github-metrics.vercel.app/api?username=shishirkhatiwada&theme=radical&base=header,activity,community,repositories&config.timezone=Asia%2FKathmandu" />
-</p>
-
----
-
 ## 🔍 Visitors Counter
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shishirkhatiwada&style=flat-square&color=blue" alt="Profile Views" />
