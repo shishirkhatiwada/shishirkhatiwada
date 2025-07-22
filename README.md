@@ -17,6 +17,12 @@
 
 ---
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+and+Scalable+Apps" alt="Typing SVG" />
+</h3>
+
+---
+
 <p align="center"><i>💡 "Build fast. Learn faster. Break limits." 💡</i></p>
 
 ---
@@ -131,7 +137,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shishirkhatiwada&theme=radical" />
+  <img src="https://github-metrics.vercel.app/api?username=shishirkhatiwada&theme=radical&base=header,activity,community,repositories&config.timezone=Asia%2FKathmandu" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shishirkhatiwada&theme=radical&hide_border=true&border_radius=10" />
 </p>
 
 ---
