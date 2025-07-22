@@ -17,9 +17,7 @@
 
 ---
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Building+Secure+and+Scalable+Apps" alt="Typing SVG" />
-</h3>
+
 
 ---
 
