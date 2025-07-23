@@ -17,17 +17,13 @@
 
 ---
 
-
-
----
-
 <p align="center"><i>💡 "Build fast. Learn faster. Break limits." 💡</i></p>
 
 ---
 
 ## 🔧 About Me
-- 👨‍💻 Full Stack Developer | Cybersecurity Enthusiast
-- 🚀 Passionate about building secure, scalable, and impactful applications.
+- 👨‍💻 Full Stack Developer | Cybersecurity Enthusiast  
+- 🚀 Passionate about building secure, scalable, and impactful applications.  
 - 💬 Open to collaboration, freelance gigs, and meaningful tech conversations.
 
 ---
@@ -113,7 +109,15 @@ OpenAI APIs, LangChain
 
 ### 🔥 Streaks
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shishirkhatiwada&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shishirkhatiwada&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Watch the Snake Eat My Contributions
+
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
