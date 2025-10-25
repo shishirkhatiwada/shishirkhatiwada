@@ -113,13 +113,6 @@ OpenAI APIs, LangChain
 </p>
 
 ---
-
-## 🐍 Watch the Snake Eat My Contributions
-
-<p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 ---
 
 ## 🔍 Visitors Counter
@@ -129,9 +122,3 @@ OpenAI APIs, LangChain
 
 ---
 
-## ✨ Closing Note
-
-<p align="center">
-🚀 <b>Passionate about building, securing, and scaling impactful applications.</b><br/>
-🤝 Open to collaboration, freelance gigs, and meaningful tech conversations.
-</p>
