@@ -32,15 +32,32 @@
 
 ### Frontend
 
-* React, Next.js (App Router)
+* React, **React Native**
+* Next.js (App Router)
 * TypeScript, Tailwind CSS
 * Zustand, Radix UI
+
+### Mobile
+
+* React Native (Expo)
+* Android-focused development
 
 ### Backend
 
 * Node.js, Express
+
 * REST APIs, WebSockets
+
 * Auth: JWT, OAuth, NextAuth
+
+* Prisma, Zod
+
+* Node.js, Express
+
+* REST APIs, WebSockets
+
+* Auth: JWT, OAuth, NextAuth
+
 * Prisma, Zod
 
 ### Databases & Infra
@@ -56,6 +73,8 @@
 ### Cybersecurity
 
 * Nmap, Burp Suite
+* OWASP Top 10
+* API Security Basics
 
 ### AI
 
@@ -66,7 +85,7 @@
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,tailwind,nodejs,express,postgres,mongodb,redis,docker,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,reactnative,nextjs,tailwind,nodejs,express,postgres,mongodb,redis,docker,git,github,vercel,androidstudio" />
 </p>
 
 ---
