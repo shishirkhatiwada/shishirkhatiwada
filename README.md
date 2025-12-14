@@ -107,15 +107,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shishirkhatiwada&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shishirkhatiwada&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishirkhatiwada&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishirkhatiwada&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shishirkhatiwada&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=shishirkhatiwada&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -123,7 +123,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shishirkhatiwada&theme=tokyonight&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shishirkhatiwada&theme=flat&no-frame=true&margin-w=8" alt="GitHub Trophies" />
 </p>
 
 ---
