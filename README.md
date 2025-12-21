@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full‑Stack Developer ⚡ | Cybersecurity Enthusiast 🔐</b><br/>
-  <i>Building fast, secure & scalable products</i>
+  <i>Building fast, secure & scalable web & mobile products</i>
 </p>
 
 <p align="center">
@@ -21,8 +21,8 @@
 
 * 👨‍💻 Full‑Stack Developer focused on **modern web & mobile apps**
 * 🔐 Strong interest in **Cybersecurity & secure system design**
-* 🧠 Learning every day: backend architecture, DevOps & security
-* 🤝 Open to collaboration, freelance work & open‑source
+* 🧠 Always learning: backend architecture, DevOps & cloud
+* 🤝 Open to collaboration, freelance work & open-source
 
 > 💡 *"Build fast. Secure early. Scale confidently."*
 
@@ -31,53 +31,33 @@
 ## 🧠 Tech Stack
 
 ### Frontend
-
-* React, **React Native**
-* Next.js (App Router)
-* TypeScript, Tailwind CSS
-* Zustand, Radix UI
+* React, React Native, Next.js (App Router)
+* TypeScript, Tailwind CSS, ShadCN UI
+* Zustand, React Hook Form, Radix UI
 
 ### Mobile
-
 * React Native (Expo)
 * Android-focused development
 
 ### Backend
-
-* Node.js, Express
-
+* Node.js, Express.js
 * REST APIs, WebSockets
-
-* Auth: JWT, OAuth, NextAuth
-
-* Prisma, Zod
-
-* Node.js, Express
-
-* REST APIs, WebSockets
-
-* Auth: JWT, OAuth, NextAuth
-
+* Authentication: JWT, OAuth, NextAuth
 * Prisma, Zod
 
 ### Databases & Infra
-
-* PostgreSQL, MongoDB
+* PostgreSQL, MongoDB, MySQL
 * Redis, Kafka (basics)
 
 ### DevOps & Tools
-
 * Docker, Git, GitHub
-* Vercel
+* Vercel, AWS, CI/CD
 
 ### Cybersecurity
-
 * Nmap, Burp Suite
-* OWASP Top 10
-* API Security Basics
+* OWASP Top 10, API Security Basics
 
 ### AI
-
 * OpenAI APIs, LangChain
 
 ---
@@ -85,22 +65,46 @@
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,reactnative,nextjs,tailwind,nodejs,express,postgres,mongodb,redis,docker,git,github,vercel,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,nextjs,tailwind,nodejs,express,postgres,mongodb,redis,docker,git,github,vercel,androidstudio" />
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🎧 musikified
+### 🏢 Multitenent
+🔗 [github.com/shishirkhatiwada/multitenent](https://github.com/shishirkhatiwada/multitenent)  
+**Description:** Multi-Tenant SaaS starter enabling multiple organizations to operate isolated workspaces.  
+**Frontend:** Next.js, React 18, TypeScript, Tailwind CSS, ShadCN UI, Zustand, React Hook Form + Zod  
+**Backend:** Node.js, Express.js, TypeScript, Prisma (PostgreSQL), Mongoose (MongoDB), JWT Authentication, Jest  
+**Databases:** PostgreSQL, MongoDB  
+**Key Features:** RBAC, secure authentication, scalable backend architecture, tenant isolation.
 
-🎵 Music streaming & discovery platform
-🔗 [https://github.com/shishirkhatiwada/musikified](https://github.com/shishirkhatiwada/musikified)
+### 📋 KanTrack
+🔗 [github.com/shishirkhatiwada/KanTrack](https://github.com/shishirkhatiwada/KanTrack)  
+**Description:** Full-stack Kanban task management app with real-time task updates.  
+**Frontend:** React, TypeScript  
+**Backend:** Node.js, Express.js, JWT Authentication, WebSockets  
+**Database:** MongoDB  
+**Key Features:** Real-time task movements, role-based authentication, modular frontend components.
 
-### 🚀 sparkx
+### 🛒 Ecommercee
+🔗 [github.com/shishirkhatiwada/ecommercee](https://github.com/shishirkhatiwada/ecommercee)  
+**Description:** Full-featured e-commerce web & mobile platform with cart, checkout, and payments.  
+**Frontend:** React Native (Expo), Next.js, TypeScript, Tailwind CSS, ShadCN UI, Zustand, React Query, Expo Router  
+**Backend:** Node.js, Express.js, Prisma ORM, JWT Authentication, REST APIs  
+**Database:** PostgreSQL  
+**Key Features:** Product listings, secure API endpoints, mobile & web optimized, smooth navigation.
 
-💬 Social collaboration & community app
-🔗 [https://github.com/shishirkhatiwada/sparkx](https://github.com/shishirkhatiwada/sparkx)
+### 🎧 Musikified
+🔗 [github.com/shishirkhatiwada/musikified](https://github.com/shishirkhatiwada/musikified)  
+**Description:** Music streaming & discovery platform for web.  
+**Tech:** React, Node.js, MongoDB, Tailwind CSS, JWT Authentication  
+
+### 🚀 SparkX
+🔗 [github.com/shishirkhatiwada/sparkx](https://github.com/shishirkhatiwada/sparkx)  
+**Description:** Social collaboration & community app.  
+**Tech:** React, Node.js, Express, MongoDB, JWT Authentication  
 
 ---
 
