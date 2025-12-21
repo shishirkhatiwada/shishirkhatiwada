@@ -36,22 +36,26 @@
 * Zustand, React Hook Form, Radix UI
 
 ### Mobile
-* React Native (Expo)
-* Android-focused development
+* React Native (Expo), Android development
+* Navigation: Expo Router, React Navigation
+* State Management: Zustand, React Query
 
 ### Backend
 * Node.js, Express.js
 * REST APIs, WebSockets
 * Authentication: JWT, OAuth, NextAuth
-* Prisma, Zod
+* TypeScript, Prisma, Zod
+* Testing: Jest, fast-check
 
 ### Databases & Infra
 * PostgreSQL, MongoDB, MySQL
 * Redis, Kafka (basics)
+* Cloud Storage: Cloudinary
+* Payment Integration: Stripe, Khalti, eSewa
 
 ### DevOps & Tools
-* Docker, Git, GitHub
-* Vercel, AWS, CI/CD
+* Docker, Git, GitHub, CI/CD
+* Vercel, AWS, Linux
 
 ### Cybersecurity
 * Nmap, Burp Suite
@@ -65,7 +69,7 @@
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,nextjs,tailwind,nodejs,express,postgres,mongodb,redis,docker,git,github,vercel,androidstudio" />
+  <b>JavaScript | TypeScript | HTML | CSS | React | React Native | Next.js | Tailwind | Node.js | Express | PostgreSQL | MongoDB | Redis | Docker | Git | GitHub | Vercel | Prisma</b>
 </p>
 
 ---
@@ -75,7 +79,7 @@
 ### 🏢 Multitenent
 🔗 [github.com/shishirkhatiwada/multitenent](https://github.com/shishirkhatiwada/multitenent)  
 **Description:** Multi-Tenant SaaS starter enabling multiple organizations to operate isolated workspaces.  
-**Frontend:** Next.js, React 18, TypeScript, Tailwind CSS, ShadCN UI, Zustand, React Hook Form + Zod  
+**Frontend:** Next.js 15, React 18, TypeScript, Tailwind CSS, ShadCN UI, Zustand, React Hook Form + Zod  
 **Backend:** Node.js, Express.js, TypeScript, Prisma (PostgreSQL), Mongoose (MongoDB), JWT Authentication, Jest  
 **Databases:** PostgreSQL, MongoDB  
 **Key Features:** RBAC, secure authentication, scalable backend architecture, tenant isolation.
@@ -120,14 +124,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shishirkhatiwada&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shishirkhatiwada&theme=flat&no-frame=true&margin-w=8" alt="GitHub Trophies" />
 </p>
 
 ---
