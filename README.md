@@ -115,19 +115,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shishirkhatiwada&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shishirkhatiwada&show_icons=true&theme=dark&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishirkhatiwada&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishirkhatiwada&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shishirkhatiwada&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <b>⚡ Always building. Always learning.</b>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shishirkhatiwada&theme=dark&hide_border=true" />
 </p>
