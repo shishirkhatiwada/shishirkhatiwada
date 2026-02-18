@@ -1,127 +1,23 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#7c3aed">Shishir Khatiwada</span></h1>
 
-<p align="center">
-  <b>Full‑Stack Developer ⚡ | Cybersecurity Enthusiast 🔐</b><br/>
-  <i>Building fast, secure & scalable web & mobile products</i>
-</p>
+# 💫 About Me:
+🔭 I’m currently working on: Building projects using RAG (AI) and integrating intelligent features into applications  <br>🤝 I’m looking for help with: Developing cybersecurity tools for SOC environments and detection workflows  <br>🌱 I’m currently learning: AI integration in real-world apps and the Go programming language  <br>💬 Ask me about: Full-stack development, MERN, AI apps, or anything tech  <br>⚡ Fun fact: I enjoy experimenting with new tech stacks and turning random ideas into working projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shishir-khatiwada-58a866279/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/shishirkhatiwadaa/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=shishirkhatiwada&label=Profile%20Views&color=7c3aed&style=flat" />
-</p>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shishirkhatiwadaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shishir-khatiwada-58a866279/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/SHISIR08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ccrkhatiwada@gmail.com) 
 
-## 🚀 About Me
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=flat&logo=NixOS&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=flat&logo=tRPC&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shishirkhatiwada&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shishirkhatiwada&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shishirkhatiwada&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-* 👨‍💻 Full‑Stack Developer focused on **modern web & mobile apps**
-* 🔐 Strong interest in **Cybersecurity & secure system design**
-* 🧠 Always learning: backend architecture, DevOps & cloud
-* 🤝 Open to collaboration, freelance work & open-source
-
-> 💡 *"Build fast. Secure early. Scale confidently."*
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shishirkhatiwada&theme=one_dark_pro&no-frame=true&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=shishirkhatiwada&icon=3&color=0)](https://visitcount.itsvg.in)
 
-## 🧠 Tech Stack
-
-### Frontend
-* React, React Native, Next.js (App Router)
-* TypeScript, Tailwind CSS, ShadCN UI
-* Zustand, React Hook Form, Radix UI
-
-### Mobile
-* React Native (Expo), Android development
-* Navigation: Expo Router, React Navigation
-* State Management: Zustand, React Query
-
-### Backend
-* Node.js, Express.js
-* REST APIs, WebSockets
-* Authentication: JWT, OAuth, NextAuth
-* TypeScript, Prisma, Zod
-* Testing: Jest, fast-check
-
-### Databases & Infra
-* PostgreSQL, MongoDB, MySQL
-* Redis, Kafka (basics)
-* Cloud Storage: Cloudinary
-* Payment Integration: Stripe, Khalti, eSewa
-
-### DevOps & Tools
-* Docker, Git, GitHub, CI/CD
-* Vercel, AWS, Linux
-
-### Cybersecurity
-* Nmap, Burp Suite
-* OWASP Top 10, API Security Basics
-
-### AI
-* OpenAI APIs, LangChain
-
----
-
-## 🧰 Languages & Tools
-
-<p align="center">
-  <b>JavaScript | TypeScript | HTML | CSS | React | React Native | Next.js | Tailwind | Node.js | Express | PostgreSQL | MongoDB | Redis | Docker | Git | GitHub | Vercel | Prisma</b>
-</p>
-
----
-
-## 🌟 Featured Projects
-
-### 🏢 Multitenent
-🔗 [github.com/shishirkhatiwada/multitenent](https://github.com/shishirkhatiwada/multitenent)  
-**Description:** Multi-Tenant SaaS starter enabling multiple organizations to operate isolated workspaces.  
-**Frontend:** Next.js 15, React 18, TypeScript, Tailwind CSS, ShadCN UI, Zustand, React Hook Form + Zod  
-**Backend:** Node.js, Express.js, TypeScript, Prisma (PostgreSQL), Mongoose (MongoDB), JWT Authentication, Jest  
-**Databases:** PostgreSQL, MongoDB  
-**Key Features:** RBAC, secure authentication, scalable backend architecture, tenant isolation.
-
-### 📋 KanTrack
-🔗 [github.com/shishirkhatiwada/KanTrack](https://github.com/shishirkhatiwada/KanTrack)  
-**Description:** Full-stack Kanban task management app with real-time task updates.  
-**Frontend:** React, TypeScript  
-**Backend:** Node.js, Express.js, JWT Authentication, WebSockets  
-**Database:** MongoDB  
-**Key Features:** Real-time task movements, role-based authentication, modular frontend components.
-
-### 🛒 Ecommercee
-🔗 [github.com/shishirkhatiwada/ecommercee](https://github.com/shishirkhatiwada/ecommercee)  
-**Description:** Full-featured e-commerce web & mobile platform with cart, checkout, and payments.  
-**Frontend:** React Native (Expo), Next.js, TypeScript, Tailwind CSS, ShadCN UI, Zustand, React Query, Expo Router  
-**Backend:** Node.js, Express.js, Prisma ORM, JWT Authentication, REST APIs  
-**Database:** PostgreSQL  
-**Key Features:** Product listings, secure API endpoints, mobile & web optimized, smooth navigation.
-
-### 🎧 Musikified
-🔗 [github.com/shishirkhatiwada/musikified](https://github.com/shishirkhatiwada/musikified)  
-**Description:** Music streaming & discovery platform for web.  
-**Tech:** React, Node.js, MongoDB, Tailwind CSS, JWT Authentication  
-
-### 🚀 SparkX
-🔗 [github.com/shishirkhatiwada/sparkx](https://github.com/shishirkhatiwada/sparkx)  
-**Description:** Social collaboration & community app.  
-**Tech:** React, Node.js, Express, MongoDB, JWT Authentication  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shishirkhatiwada&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishirkhatiwada&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shishirkhatiwada&theme=dark&hide_border=true" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
